@@ -22,10 +22,15 @@ It converts audio episodes into **searchable text** and allows users to query to
 ## 📂 Project Structure
 📦 Audio-to-Text-RAG
 ┣ 📂 data # Podcast audio files
+
 ┣ 📂 transcripts # Generated transcripts
+
 ┣ 📂 embeddings # Vector embeddings for search
+
 ┣ 📜 app.py # Main application file
+
 ┣ 📜 requirements.txt # Dependencies
+
 ┗ 📜 README.md # Documentation
 
 
